@@ -13,6 +13,16 @@ function App() {
         <div>
           <div className="text-xl font-medium text-black ">ChitChat</div>
           <p className="text-gray-500">You have a new message!</p>
+          <p className="text-gray-500">Nemanja</p>
+          <p className="text-gray-500">Nemanja</p>
+
+          <p className="text-gray-500">Nemanja</p>
+
+          <p className="text-gray-500">Nemanja</p>
+
+          <p className="text-gray-500">Nemanja</p>
+
+          <p className="text-gray-500">Nemanja</p>
         </div>
       </div>
     </div>
